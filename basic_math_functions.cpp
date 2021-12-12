@@ -1,4 +1,9 @@
 #include <iostream>
+// This is a comment
+/*
+  and this is a multi-line comment.
+  See?
+*/
 
 int main()
 {
